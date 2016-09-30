@@ -1,0 +1,44 @@
+/* Make the background dark and remove the overflow */
+body{
+  margin: 0px;
+  background-color: #222222;
+  overflow: hidden;
+}
+.centered{
+  position: absolute;
+  z-index: 999;
+  margin: auto;
+position: absolute;
+top: 0; left: 0; bottom: 0; right: 0;
+text-align: center;
+}
+.centered button{
+  transition: all 0.3s ease;
+  border: 1px solid #fefefe;
+  background: none;
+  padding: 15px 0px;
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  color: #fefefe;
+  font-weight: 300;
+  width: 225px;
+  margin-top: 0.8em;
+}
+.centered button:hover{
+  background-color: #FD6C6C;
+  cursor: pointer;
+}
+h1{
+  font-family: "Raleway", sans-serif;
+  font-size: 2.5em;
+  color: #fefefe;
+  font-weight: 800;
+}
+h2{
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  color: #fefefe;
+  font-weight: 400
+  padding: 0 20px;
+  line-height: 2em;
+}
