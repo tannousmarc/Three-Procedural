@@ -1,4 +1,4 @@
-/* Make the background dark and remove the overflow */
+/* Remove overflow to disable scrolling */
 body{
   margin: 0px;
   background-color: #222222;
