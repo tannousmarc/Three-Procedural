@@ -4,6 +4,9 @@ body{
   background-color: #222222;
   overflow: hidden;
 }
+canvas{
+  transition: all 1s ease;
+}
 .centered{
   position: absolute;
   z-index: 999;
