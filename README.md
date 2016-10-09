@@ -7,3 +7,7 @@ This is an experiment that uses three.js and Jerome Etienne's threex.js ; The co
 You can see [a fully functional live demo](http://www.tannousmarc.com/projects/threeX/index) on my webpage.
 
 If simply watching is not quite your cup of tea, [play with the code instantly in the browser](http://codepen.io/marctannous/pen/RNGjmz) or fork the project on github.
+
+#Known issues
+- Mobile spacing is off, font size and line height as well.
+- Rendering on older machines takes a while ; Maybe implement a preloader?
