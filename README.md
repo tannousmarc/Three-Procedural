@@ -8,6 +8,9 @@ You can see [a fully functional live demo](http://www.tannousmarc.com/projects/t
 
 If simply watching is not quite your cup of tea, [play with the code instantly in the browser](http://codepen.io/marctannous/pen/RNGjmz) or fork the project on github.
 
+#Adaptations
+[@clindsey on codepen generated highlander final fight scene location](http://codepen.io/clindsey/details/yJqwXP)
+
 #Known issues
 - Mobile spacing is off, font size and line height as well.
 - Rendering on older machines takes a while ; Maybe implement a preloader?
