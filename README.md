@@ -1,6 +1,6 @@
 # Procedurally generated environment
 This is an experiment that uses three.js and Jerome Etienne's threex.js ; The code is uploaded both on codepen and github to play and experiment with. The object is there, question is : what can you do with it? (check out the amazing stuff http://www.makemepulse.com/ does with a similar initial object)
-![](http://i.imgur.com/YqjAM0Z.gif)
+![](https://cloud.githubusercontent.com/assets/6099321/24084895/5f01f894-0cea-11e7-92a6-7ff012acb626.gif)
 ![](http://i.imgur.com/8aUC7zf.gif)
 ![Screenshot](https://cloud.githubusercontent.com/assets/6099321/18985129/480aa9ba-86ee-11e6-9a26-0dded5f2ba81.png)
 
