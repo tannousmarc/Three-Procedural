@@ -4,7 +4,7 @@ This is an experiment that uses three.js and Jerome Etienne's threex.js ; The co
 
 # Demo
 I have uploaded [a live demo](http://www.tannousmarc.com/projects/threeX/index) on my webpage.
-![Demo](https://cloud.githubusercontent.com/assets/6099321/24084895/5f01f894-0cea-11e7-92a6-7ff012acb626.gi 
+![Demo](https://cloud.githubusercontent.com/assets/6099321/24084895/5f01f894-0cea-11e7-92a6-7ff012acb626.gif)
 [Play with the code instantly in the browser](http://codepen.io/marctannous/pen/RNGjmz) or fork the project on github.
 
 # Adaptations
