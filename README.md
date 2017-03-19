@@ -3,11 +3,7 @@ This is an experiment that uses three.js and Jerome Etienne's threex.js ; The co
 
 
 # Demo
-<p align="center">
-
-![](https://cloud.githubusercontent.com/assets/6099321/24084895/5f01f894-0cea-11e7-92a6-7ff012acb626.gif)
-
-</p>
+![](https://cloud.githubusercontent.com/assets/6099321/24084918/e253bff2-0cea-11e7-94f0-1c655b24245b.gif)
 
 I have uploaded [a live demo](http://www.tannousmarc.com/projects/threeX/index) on my webpage.
 
