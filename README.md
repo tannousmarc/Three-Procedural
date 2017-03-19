@@ -13,5 +13,5 @@ I have uploaded [a live demo](http://www.tannousmarc.com/projects/threeX/index) 
 [@clindsey on codepen generated highlander final fight scene location](http://codepen.io/clindsey/details/yJqwXP)
 
 # Known issues
-- Mobile spacing is off, font size and line height as well.
-- Rendering on older machines takes a while ; Maybe implement a preloader?
+- TODO: Mobile spacing/scaling
+- Rendering on older machines takes a while ; TODO : Preloader
