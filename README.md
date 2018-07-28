@@ -1,5 +1,5 @@
 # Procedurally generated environment
-This is an experiment that uses three.js and Jerome Etienne's threex.js ; The code is uploaded both on codepen and github to play and experiment with. 
+This is an experiment that uses three.js and Jerome Etienne's threex.js. The code is uploaded both on codepen and github to play and experiment with. 
 
 Check out the amazing stuff http://www.makemepulse.com/ does with a similar three.js object.
 
@@ -16,4 +16,4 @@ I have uploaded [a live demo](http://www.tannousmarc.com/projects/threeX/index) 
 
 # Known issues
 - TODO: Mobile spacing/scaling
-- Rendering on older machines takes a while ; TODO : Preloader
+- Rendering on older machines takes a while; TODO: Preloader
