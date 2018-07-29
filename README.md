@@ -15,4 +15,5 @@ Check out the amazing stuff http://www.makemepulse.com/ does with a similar thre
 # Known issues
 * Mobile spacing/scaling
 * Rendering on older machines is not optimized
-** Preloader
+  * Run JS Profiler at runtime to trace suspiciously long calls
+  * Implement preloader
