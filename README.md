@@ -14,4 +14,4 @@ Check out the amazing stuff http://www.makemepulse.com/ does with a similar thre
 
 # Known issues
 - TODO: Mobile spacing/scaling
-- Rendering on older machines takes a while; TODO: Preloader
+- Rendering on older machines is not optimized; TODO: Preloader
