@@ -13,5 +13,5 @@ Check out the amazing stuff http://www.makemepulse.com/ does with a similar thre
 [@clindsey on codepen generated highlander final fight scene location](http://codepen.io/clindsey/details/yJqwXP)
 
 # Known issues
-- TODO: Mobile spacing/scaling
-- Rendering on older machines is not optimized; TODO: Preloader
+- Mobile spacing/scaling
+- Rendering on older machines is not optimized
