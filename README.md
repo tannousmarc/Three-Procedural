@@ -13,8 +13,8 @@ Check out the amazing stuff http://www.makemepulse.com/ does with a similar thre
 [@clindsey on codepen generated highlander final fight scene location](http://codepen.io/clindsey/details/yJqwXP)
 
 # Known issues
-* **Rendering uses too much memorye**
-  * Run JS Profiler at runtime to trace suspiciously long calls
+* **Rendering uses too much memory**
+  * Run a JS Profiler at runtime to trace suspiciously long calls
   * Implement preloader
 * **Mobile spacing/scaling**
   * CSS Responsive queries
