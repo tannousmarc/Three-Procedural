@@ -14,7 +14,7 @@ Check out the amazing stuff http://www.makemepulse.com/ does with a similar thre
 
 # Known issues
 * **Rendering uses too much memory**
-  * Run a JS Profiler at runtime to trace suspiciously long calls
+  * Run a profier to trace suspiciously long calls
   * Implement preloader
 * **Mobile spacing/scaling**
   * CSS Responsive queries
