@@ -1,5 +1,5 @@
 # Procedurally generated environment
-This is an experiment that uses three.js and Jerome Etienne's threex.js. The code is uploaded both on codepen and github to play and experiment with. 
+Simple experiment that uses threex.js.
 
 Check out the amazing stuff http://www.makemepulse.com/ does with a similar three.js object.
 
@@ -7,14 +7,9 @@ Check out the amazing stuff http://www.makemepulse.com/ does with a similar thre
 # Demo
 ![](https://cloud.githubusercontent.com/assets/6099321/24084918/e253bff2-0cea-11e7-94f0-1c655b24245b.gif)
 
-[Play with the code instantly in the browser](http://codepen.io/marctannous/pen/RNGjmz) or fork the project on github.
-
-# Adaptations
-[@clindsey on codepen generated highlander final fight scene location](http://codepen.io/clindsey/details/yJqwXP)
-
 # Known issues
 * **Rendering uses too much memory**
   * Run a profier to trace suspiciously long calls
-  * Implement preloader
+  * Preload resources
 * **Mobile spacing/scaling**
   * CSS Responsive queries
